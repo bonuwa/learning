@@ -1,5 +1,5 @@
 a = 2
 b = 4
-c = a + b + a
+c = a + b
 
-print(f"Wynik to {c}")
+print(f"Wynik to: {c}")
